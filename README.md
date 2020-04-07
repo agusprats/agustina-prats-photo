@@ -5,6 +5,7 @@ Landing HTML with CSS animations, parallax, slide show, contact form, blog
 https://agusprats.github.io/agustina-prats-photography/
 <br/>
 <br/>
+<hr>
 All pictures belong to Agustina Prats<br/>
-
-<img src="/agustina-prats-photography/app.png">
+<hr>
+<img src="app.png">
