@@ -7,4 +7,4 @@ https://agusprats.github.io/agustina-prats-photography/
 <br/>
 All pictures belong to Agustina Prats<br/>
 
-<img src="agusprats/agustina-prats-photography/app.png">
+<img src="/agustina-prats-photography/app.png">
