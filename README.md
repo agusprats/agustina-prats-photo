@@ -2,7 +2,7 @@
 Landing HTML with CSS animations, parallax, slide show, contact form, blog
 <hr>
 <br/>
-<p><a href="https://agusprats.github.io/agustina-prats-photography/" rel="nofollow">Demo</a></p>
+<p><a href="https://agusprats.github.io/agustina-prats-photography/" target="new" rel="nofollow">Demo</a></p>
 
 <br/>
 <br/>
