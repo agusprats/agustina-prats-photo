@@ -8,4 +8,6 @@ https://agusprats.github.io/agustina-prats-photography/
 <hr>
 All pictures belong to Agustina Prats<br/>
 <hr>
+<img src="mockup.png">
+<hr/>
 <img src="app.png">
